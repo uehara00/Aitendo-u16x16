@@ -7,4 +7,3 @@ https://youtu.be/0CNBP0ZS6V4
 
 http://www.aitendo.com/product/12243
 
-https://www.facebook.com/yoshiyuki.uehara/videos/1739954332748864/
