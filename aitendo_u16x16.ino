@@ -11,9 +11,9 @@ const int PinLT =  9;  // u16x16_p1: latch
 //        PinDT = 11;  // u16x16_p3: data
 const int PinG  =  8;  // u16x16_p4: G
 const int PinA  =  7;  // u16x16_p5: A
-const int PinB  =  6;  // u16x16_p5: B
-const int PinC  =  5;  // u16x16_p5: C
-const int PinD  =  4;  // u16x16_p5: D
+const int PinB  =  6;  // u16x16_p6: B
+const int PinC  =  5;  // u16x16_p7: C
+const int PinD  =  4;  // u16x16_p8: D
 
 // LED matrix
 // [ 0]0123456789abcdef [ 1]0123456789abcdef
